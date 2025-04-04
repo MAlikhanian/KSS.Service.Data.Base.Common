@@ -1,0 +1,1 @@
+# KSS.Service.Data.Base.Common
